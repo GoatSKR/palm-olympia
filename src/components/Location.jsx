@@ -1,7 +1,7 @@
 export default function Location() {
   return (
     <>
-      <div className="w-full bg-white  py-20 flex items-center justify-evenly">
+      <div className="w-full bg-white  py-20 flex items-center gap-4 justify-evenly">
         <section className="bg-[#023A2A] py-20 flex items-center justify-center flex-col gap-5 w-72 rounded-[48px]">
           <h3 className="text-base">AREA & UNITS</h3>
           <h2 className="font-bold text-xl">14 ACRES and 750</h2>
