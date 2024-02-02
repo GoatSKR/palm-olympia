@@ -25,7 +25,7 @@ const ProjectHighlights = () => {
           <div className="flex-1">
             <img
               className=""
-              src=" ../src/assets/images/brochure-final_page-0015@2x.png"
+              src=" ./images/brochure-final_page-0015@2x.png"
               alt="hr Image"
             />
           </div>
@@ -60,7 +60,7 @@ const ProjectHighlights = () => {
 
           <div className="flex-1">
             <video className="rounded-3xl" controls width="100%" height="auto">
-              <source src="./src/assets/video.mp4" type="video/mp4" />
+              <source src="./video.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>

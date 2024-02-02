@@ -79,11 +79,7 @@ export default function Location() {
           </div>
 
           <div className="flex-1">
-            <img
-              className=""
-              src=" ../src/assets/images/Location.png"
-              alt="hr Image"
-            />
+            <img className="" src=" ./images/Location.png" alt="hr Image" />
           </div>
         </div>
       </div>

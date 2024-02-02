@@ -6,7 +6,7 @@ import Location from "../components/Location"
 import Navbar from "../components/Navbar"
 import Price from "../components/Price"
 import ProjectHighlights from "../components/ProjectHighlights"
-import Form1 from "../components/form1"
+import Form1 from "../components/Form1"
 
 export default function Home() {
   return (
@@ -16,10 +16,10 @@ export default function Home() {
       <Compo2 />
       <Location />
       <Floorplan />
-      <Form1 />
       <Price />
       <Amenities />
       <ProjectHighlights />
+      <Form1 />
     </>
   )
 }

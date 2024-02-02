@@ -3,11 +3,7 @@ export default function Compo2() {
     <div className="bg-[#023A2A] h-auto grid place-items-center py-20">
       <div className="flex items-center justify-between">
         <div className="flex-1">
-          <img
-            className="px-20"
-            src=" ../src/assets/images/Group24.png"
-            alt="hr Image"
-          />
+          <img className="px-20" src=" ./images/Group24.png" alt="hr Image" />
         </div>
         <div className="flex-1 px-20">
           <p className="text-4xl">PALM OLYMPIA</p>
