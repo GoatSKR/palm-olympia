@@ -1,6 +1,9 @@
 export default function Hero() {
   return (
-    <div className=" py-[16%] px-[5%] bg-black bg-cover bg-[url('./images/Group29.png')]">
+    <div
+      className=" py-[16%] px-[5%] bg-black bg-cover"
+      style={{ backgroundImage: 'url("./images/Group29.png")' }}
+    >
       <div className="text-4xl">
         <h1>PALM OLYMPIA</h1>
       </div>

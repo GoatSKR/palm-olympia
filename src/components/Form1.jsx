@@ -94,6 +94,9 @@ export default function Form1() {
             onChange={(e) => setNumber(e.target.value)}
             value={number}
           />
+          <button className="rounded-3xl mt-10 font-thin text-[16px] font-serif lg:text-[18px]   bg-white text-[#024f39] hover:text-white hover:bg-[#024f39] px-[22px] py-[8px] lg:px-[35px]">
+            Submit
+          </button>
         </form>
         <h1 className="text-center text-8xl">PALM OLYMPIA</h1>
         <h2 className="text-center text-4xl">
