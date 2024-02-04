@@ -16,6 +16,7 @@ export default function Home() {
       <Scroll />
       <Navbar />
       <Hero />
+      <Scroll />
       <Compo2 />
       <Location />
       <Floorplan />
