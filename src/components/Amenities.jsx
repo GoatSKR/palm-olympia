@@ -2,10 +2,10 @@ export default function Amenities() {
   return (
     <div className="bg-[#F1F1F1] py-[8%] px-[8%]">
       <div>
-        <h1 className="text-black text-center text-4xl"> AMENITIES</h1>
+        <h1 className="text-black  font-[Roadblock] text-center text-4xl"> AMENITIES</h1>
       </div>
       <div>
-        <p className="text-black mt-[1%] text-center text-2xl">
+        <p className="text-black mt-[1%] text-center text-lg md:text-2xl font-Helvet">
           Sit-out courts | Sculpture court | Lawn | Fitness court | Yoga Court |
           Amphitheatre | Kid’s Play Area | Pool deck Kids pool | Swimming Pool |
           Grand club house | Skating Rink | Multi-Purpose court | Jogging Track

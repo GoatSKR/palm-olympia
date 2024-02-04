@@ -5,6 +5,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      Helvet: [ "Helvetica Neue", " sans-serif "  ] ,
+      Roadblock: [ "Roadblock","sans-serif" ]
+    },
   },
   plugins: [],
 }
